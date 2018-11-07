@@ -1,7 +1,5 @@
-第2回公開研用　jupyter notebook サンプル集
 
-いかに配布するかが問題．GitHubにする．
+TensorFlow サンプル
 
-TFLearnは実習やらない．
-
+1.回帰分析　JIEP_tensorflow_regression.ipynb
 
