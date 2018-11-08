@@ -3,3 +3,5 @@ TensorFlow サンプル
 
 1.回帰分析　JIEP_tensorflow_regression.ipynb
 
+2.単層ニューラルネット(MNIST) JIEP_tensorflow_nn_tanso-MNIST.ipynb
+
